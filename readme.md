@@ -1,0 +1,1 @@
+export GOOGLE_APPLICATION_CREDENTIALS="/home/loginlock/Documents/Javascript/node-firebase/node-firebase-example-a8aed-firebase-adminsdk-sovc4-39efb440d3.json"

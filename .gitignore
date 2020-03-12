@@ -1,0 +1,4 @@
+node_modules/**/*
+package-lock.json
+node-firebase-example-a8aed-firebase-adminsdk-sovc4-39efb440d3.json
+.env
